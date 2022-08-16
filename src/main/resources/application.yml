@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: demoproject
+netty:
+  default:
+    allocator:
+      max-order: 3
